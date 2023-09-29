@@ -32,7 +32,9 @@
 
 *git branch -d <название ветки> – удалить ветку*
 
-**git commit -m “message” – создание коммита**
+*git commit -m “message” – создание коммита*
+
+~~Добавление картинок ниже~~
 
 ## Добавление картинки из интернета
 <image src="https://fikiwiki.com/uploads/posts/2022-02/1644870333_42-fikiwiki-com-p-smeshnie-kartinki-multyashek-44.jpg" alt="Green Creature">
