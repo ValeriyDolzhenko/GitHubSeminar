@@ -26,4 +26,6 @@
 
 > Блок цитирования создается при помощи значка > 
 
-![Страусы](C:\Users\NIN\Desktop\Straus.jpg)
+![Страусы](./Straus.jpg)
+
+Для использования ссылок ознакомьтесь со статьей [Использование ссылок в документации](https://learn.microsoft.com/ru-ru/contribute/content/how-to-write-links)
