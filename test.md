@@ -26,4 +26,4 @@
 
 > Блок цитирования создается при помощи значка > 
 
-![Страусы](C:\Users\NIN\Desktop)
+![Страусы](C:\Users\NIN\Desktop\Straus.jpg)
